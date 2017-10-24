@@ -5,5 +5,5 @@
 ## 指導老師: 鄭進興老師
 ## 工具: raspberrypi opencv  picamera
 
-## 介面:
-![介面](1.jpg)
+## 功能:
+![功能](IMAG0046.jpg)
