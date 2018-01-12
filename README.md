@@ -6,4 +6,4 @@
 ## 工具: raspberrypi opencv  picamera
 
 ## 功能:
-![功能](IMAG0046.jpg)
+![功能](FunctionPlan.jpg)
